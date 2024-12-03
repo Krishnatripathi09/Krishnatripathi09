@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishna&show_icons=true&theme=dark" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Krishnatripathi09&show_icons=true&theme=dark" alt="GitHub stats" />
 </p>
 
 - 🔭 I’m currently working with 
