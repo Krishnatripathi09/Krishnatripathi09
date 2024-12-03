@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Krishna Tripathi K</h1>
+<h1 align="center">Hi 👋, I'm Krishna Tripathi</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Krishna&show_icons=true&theme=dark" alt="GitHub stats" />
 </p>
 
-- 🔭 I’m currently working on with 
+- 🔭 I’m currently working with 
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on 
-- 💬 Ask me about  React.js, NestJS
+- 💬 Ask me about React.js, NestJS
 - 📫 How to reach me: Krishnatripathi158@gmail.com
 
 ---
