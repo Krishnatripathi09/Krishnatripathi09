@@ -19,7 +19,7 @@
 ---
 
 ### 🚀 Languages and Tools:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/? user=Krishnatripathi09&" alt="krishnatripathi09"/></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnatripathi09&layout=compact)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/? user=Krishnatripathi09" alt="krishnatripathi09"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnatripathi09&" alt="krishnatripathi09" /></p>
