@@ -5,11 +5,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Krishnatripathi09&show_icons=true&theme=dark" alt="GitHub stats" />
 </p>
 
-- 🔭 I’m currently working with 
-- 🌱 I’m currently learning Full Stack Development
-- 👯 I’m looking to collaborate on 
-- 💬 Ask me about React.js, NestJS
-- 📫 How to reach me: Krishnatripathi158@gmail.com
+- 🔭 I’m currently **applying for jobs in the Full-Stack domain.**
+- 🌱 I’m currently **learning Full-Stack development.**
+- 👯 I’m looking to collaborate on **projects involving React.js, NestJS, PostgreSQL, and other Full-Stack technologies.**
+- 💬 Ask me about **React.js, NestJS, JavaScript, and more!**
+- 📫 How to reach me: **Krishnatripathi158@gmail.com**
+ 
 
 ---
 
