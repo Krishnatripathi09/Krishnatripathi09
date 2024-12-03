@@ -9,7 +9,6 @@
 - 🌱 I’m currently **learning Full-Stack development.**
 - 👯 I’m looking to collaborate on **projects involving React.js, NestJS, PostgreSQL, and other Full-Stack technologies.**
 - 💬 Ask me about **React.js, NestJS, JavaScript, and more!**
-- 📫 How to reach me: **Krishnatripathi158@gmail.com**
  
 
 ---
