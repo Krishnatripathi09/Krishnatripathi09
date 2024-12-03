@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Rakesh K</h1>
+<h1 align="center">Hi 👋, I'm Krishna Tripathi K</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakeshk&show_icons=true&theme=dark" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Krishna&show_icons=true&theme=dark" alt="GitHub stats" />
 </p>
 
 - 🔭 I’m currently working on with 
