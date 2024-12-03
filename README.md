@@ -37,8 +37,9 @@
 ---
 
 <p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnatripathi09&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnatripathi09&layout=compact" alt="Top Languages" />
 </p>
+
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnatripathi09" alt="krishnatripathi09"/>
@@ -49,6 +50,10 @@
 ### 📫 Connect with me:
 
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Krishnatripathi158@gmail.com)
+  <a href="https://www.linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:Krishnatripathi158@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
