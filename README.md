@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Krishna Tripathi</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h1 align="center">Hi 👋, I'm Krishna Tripathi 😎</h1>
+<h3 align="center">A Passionate Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Full Stack Developer GIF" width="100%" />
@@ -51,9 +51,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" height="40" />
   </a>
   <a href="mailto:Krishnatripathi158@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="40"/>
   </a>
 </p>
