@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I’m currently working with 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Full Stack Development
 - 👯 I’m looking to collaborate on 
 - 💬 Ask me about React.js, NestJS
 - 📫 How to reach me: Krishnatripathi158@gmail.com
@@ -20,4 +20,4 @@
 ---
 
 ### 🚀 Languages and Tools:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnatripathi09&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnatripathi09&layout=pie)
