@@ -50,7 +50,7 @@
 ### 📫 Connect with me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/krishnakant-t-276a231b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" height="40" />
   </a>
   <a href="mailto:Krishnatripathi158@gmail.com">
