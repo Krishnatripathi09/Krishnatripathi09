@@ -42,7 +42,7 @@
 
 
 <p align="center">
-  <img align="center" src=" https://github-readme-streak-stats.herokuapp.com/?user=Krishnatripathi09&theme=radical" alt="krishnatripathi09"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnatripathi09&theme=radical" alt="krishnatripathi09"/>
 </p>
 
 ---
