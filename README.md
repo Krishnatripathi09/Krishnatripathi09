@@ -12,8 +12,8 @@
 <p align="center">
   - 🔭 I’m currently **applying for jobs in the Full-Stack domain.**<br>
   - 🌱 I’m currently **learning Full-Stack development.**<br>
-  - 👯 I’m looking to collaborate on **projects involving React.js, NestJS, PostgreSQL, and other Full-Stack technologies.**<br>
-  - 💬 Ask me about **React.js, NestJS, JavaScript, and more!**
+  - 👯 I’m looking to collaborate on **projects involving Node Js, NestJS, React.js, PostgreSQL, and other Full-Stack technologies.**<br>
+  - 💬 Ask me about ** NodeJS, NestJS, React.js, JavaScript and more!**
 </p>
 
 ---
